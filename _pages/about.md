@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<p align="center">
-  <img src="https://lantaoyu.github.io/files/cemil.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
-</p>
+
 
 # About Me
 * Director of Turkish Intellectual Property Crime Department, Turkish National Police .
+* Lecturer at Ankara Medipol University, Turkiye
+* Member of the Commitee Foreign Relations in Turkish Football Federation
